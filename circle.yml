@@ -8,4 +8,4 @@ deployment:
       commands:
           - sudo apt-get install sshpass
           - chmod +x ./deploy.sh
-          - ./deploy_prod.sh
+          - ./deploy.sh
